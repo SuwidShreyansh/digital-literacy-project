@@ -5,7 +5,7 @@
 ## 👨‍🎓 Student Details
 
 - **Name:** SUWID SHREYANSH 
-- **Registration Number:** 25BCE10176  
+- **Registration Number:** 25BCE10105  
 - **Course:** CSE0001 – Digital Literacy  
 - **University:** VIT Bhopal University  
 
