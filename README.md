@@ -34,11 +34,6 @@ As a **Student Digital Ambassador**, the aim of this project is to understand ho
 ```
 digital-literacy-project/
 │
-├── README.md
-│
-├── report/
-│   └── Project_Report.pdf
-│
 ├── task-1-presentation/
 │   └── infographic.png
 │
@@ -57,9 +52,13 @@ digital-literacy-project/
 │   ├── email-2.txt
 │   └── social-media-checklist.md
 │
-└── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
+├── task-5-cybercrime/
+│   ├── casestudy.md
+│   └── prevention-checklist.md
+│
+├── report.pdf
+│
+└── README.md
 ```
 
 ---
